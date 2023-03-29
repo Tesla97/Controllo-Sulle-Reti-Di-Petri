@@ -11,8 +11,9 @@ In the slides you can find how P-invariants can be used to verify the boundeness
 Starting from this , I've introduced the concept of "Controlled Invariants" , and I've formulated an example to show how them can be used in defining a control on the PT.
 The presention ends with the concept of Control Positions.
 
-# UPPAAL TIMED AUTOMATA
+# UPPAAL Timed Automata
 Timed Automata are a natural extension of a basic Automata. They was born with the intent of modeling time-dependent systems.
 UPPAAL (Uppsala , Aalborg) Timed  Automata , are a natural extension of the basic definition (include for example the concept of synchronized channels).
 
-In the slides I've presented an example (working example) based on the CSMA-CD protocol.
+In the slides I've presented an example (working example) based on the CSMA-CD protocol. 
+As you can see I've used different concepts of Uppaal Timed Auomata to verify the collision. It is a really working example.
