@@ -1,5 +1,5 @@
 # PetriNets
-In this folder you can find materials about Petry Nets and Uppaal Timed Automata.
+In this folder you can find materials about Petry Nets and Uppaal Timed Automata, realized for the course of RealTime Systems
 
 # What is a Petri Net?
 Petri Nets (PTs) are the evolution of Automata. Automata as instrument to model Concurrent System fails.
